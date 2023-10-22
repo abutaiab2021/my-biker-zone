@@ -9,3 +9,19 @@
 .bike-slider-ind-btn {
   color: #ff000036;
 }
+
+.arrival-bg-color {
+  background-color: #c9ebf2;
+}
+
+.rating-icon {
+  width: 20px;
+}
+
+.happy-card {
+  transition: all 0.3s !important;
+}
+
+.happy-card:hover {
+  transform: scale(1.15) !important;
+}
